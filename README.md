@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi 👋
+
+- :school: 중앙대학교 학점은행제 컴퓨터공학과 졸업 (2020)
+- :office: [펜타웍스]() 프론트 서비스 개발자 (2020. 07 ~ 현재)
 
 <!--
 **EunBKo/EunBKo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
