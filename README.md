@@ -3,11 +3,13 @@
 - :office: [펜타웍스]()  프론트 서비스 개발자 (2020. 07 ~ 현재)
 
 ### 🔭 기술스택
+![React](https://img.shields.io/badge/Spring-5F00FF)
 ![javascript](https://img.shields.io/badge/Javascript-333)
 ![typescript](https://img.shields.io/badge/Typescript-333)
 ![Nodejs](https://img.shields.io/badge/Nodejs-43853d)
 ![Java](https://img.shields.io/badge/Java-333)
 ![Spring](https://img.shields.io/badge/Spring-6db33f)
+
 
 <!--
 **EunBKo/EunBKo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
