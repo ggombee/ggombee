@@ -4,8 +4,8 @@
 
 ### 🔭 기술스택
 ![React](https://img.shields.io/badge/React-5F00FF)
-![javascript](https://img.shields.io/badge/Javascript-333)
-![typescript](https://img.shields.io/badge/Typescript-333)
+![javascript](https://img.shields.io/badge/Javascript-FFE400)
+![typescript](https://img.shields.io/badge/Typescript-0054FF)
 ![Nodejs](https://img.shields.io/badge/Nodejs-43853d)
 ![Java](https://img.shields.io/badge/Java-333)
 ![Spring](https://img.shields.io/badge/Spring-6db33f)
