@@ -3,7 +3,7 @@
 - :office: [펜타웍스]()  프론트 서비스 개발자 (2020. 07 ~ 현재)
 
 ### 🔭 기술스택
-![React](https://img.shields.io/badge/Spring-5F00FF)
+![React](https://img.shields.io/badge/React-5F00FF)
 ![javascript](https://img.shields.io/badge/Javascript-333)
 ![typescript](https://img.shields.io/badge/Typescript-333)
 ![Nodejs](https://img.shields.io/badge/Nodejs-43853d)
