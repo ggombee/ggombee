@@ -12,6 +12,8 @@
 ![Java](https://img.shields.io/badge/Java-333)
 ![Spring](https://img.shields.io/badge/Spring-6db33f)
 
+### 잔디가꾸기🌱
+[![EunBKo's github stats](https://github-readme-stats.vercel.app/api?username=EunBKo)](https://github.com/EunBKo)
 
 <!--
 **EunBKo/EunBKo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
