@@ -10,7 +10,12 @@
 ![typescript](https://img.shields.io/badge/Typescript-0054FF)
 ![Nodejs](https://img.shields.io/badge/Nodejs-43853d)
 ![Java](https://img.shields.io/badge/Java-333)
+
+and maybe in future
+![Python](https://img.shields.io/badge/Python-FFE400)
 ![Spring](https://img.shields.io/badge/Spring-6db33f)
+.
+.
 
 ### 잔디가꾸기🌱
 [![EunBKo's github stats](https://github-readme-stats.vercel.app/api?username=EunBKo)](https://github.com/EunBKo)
