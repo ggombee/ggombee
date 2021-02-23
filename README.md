@@ -5,6 +5,7 @@ I am Eunbee Ko who is interested in Data Science & Computer Science from South K
 
 If you want to contact me, please leave me a message!
 
+
 ### Experience ✨
 
 - :school: Chung-ang University Computer Science 4 year's Bachelor(Grades) Graduate (2020)
@@ -14,6 +15,7 @@ made with react/typescript
 - :office: [Safe:Re] Mzzin app build project. Front-end Developer (2021. 01 ~ current)
 made with react/typescript/redux-saga
 - :office: [????] Full Stack Developer,, Programming Analyist,, (Future)
+
 
 ### Technology Stack 🔭
 ![React](https://img.shields.io/badge/React-5F00FF)
@@ -27,6 +29,7 @@ and maybe in future
 ![AWS](https://img.shields.io/badge/AWS-8A2BE2)
 .
 .
+
 
 ### 🌱잔디가꾸기🌱
 [![EunBKo's github stats](https://github-readme-stats.vercel.app/api?username=EunBKo)](https://github.com/EunBKo)
