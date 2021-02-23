@@ -1,14 +1,21 @@
-### EunB, Ko 👋
+### Hi there 👋
+
+Good day 🙂! 
+I am Eunbee Ko who is interested in Data Science & Computer Science from South Korea.
+
+If you want to contact me, please leave me a message!
+
+### Experience ✨
+
 - :school: Chung-ang University Computer Science 4 year's Bachelor(Grades) Graduate (2020)
-- :office: Front-end Service Developer (2020. 07 ~ current) ,, 
-- :office: [LotteMart] LotteMart GO app renewal project. Front-end Developer (2020. 07 ~ 2020. 11) 
-  made with react/typescript
+- :office: Front-end Service Developer (2020. 07 ~ current) ,,
+- :office: [LotteMart] LotteMart GO app renewal project. Front-end Developer (2020. 07 ~ 2020. 11)
+made with react/typescript
 - :office: [Safe:Re] Mzzin app build project. Front-end Developer (2021. 01 ~ current)
- made with react/typescript/redux-saga
+made with react/typescript/redux-saga
 - :office: [????] Full Stack Developer,, Programming Analyist,, (Future)
 
-
-### 🔭 Technology Stack
+### Technology Stack 🔭
 ![React](https://img.shields.io/badge/React-5F00FF)
 ![javascript](https://img.shields.io/badge/Javascript-FFE400)
 ![typescript](https://img.shields.io/badge/Typescript-0054FF)
