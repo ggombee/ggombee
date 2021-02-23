@@ -4,9 +4,8 @@ Good day 🙂!
 I am Eunbee Ko who is interested in Data Science & Computer Science from South Korea.
 
 If you want to contact me, please leave me a message!
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/ggombee__" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ggombee__" height="30" width="40" /></a>
+<a href="https://instagram.com/ggombee__" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ggombee__" height="20" width="20" /></a>
 </p>
 
 ### Experience ✨
@@ -21,7 +20,6 @@ made with react/typescript/redux-saga
 
 
 ### Technology Stack 🔭\
-<h3 align="left">Languages and Tools:</h3>
 <p align="left">  
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
