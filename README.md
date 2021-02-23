@@ -1,23 +1,27 @@
 ### EunB, Ko 👋
-- :school: 중앙대학교 컴퓨터공학과 4년학사(학점) 졸업 (2020)
-- :office: 프론트 서비스 개발자 (2020. 07 ~ 현재) ,, 현재는 그렇지만 다른 것도 관심매우 많음
-- :office: [롯데마트] 롯데마트 GO 앱 리뉴얼 프로젝트 프론트 개발자 (2020. 07 ~ 2020. 11) , react/typescript/redux-saga
-- :office: [Safe:Re] 세이프리 앱 개발 프로젝트 프론트 서비스 개발자 (2021. 01 ~ 현재)
+- :school: Chung-ang University Computer Science 4 year's Bachelor(Grades) Graduate (2020)
+- :office: Front-end Service Developer (2020. 07 ~ current) ,, 
+- :office: [LotteMart] LotteMart GO app renewal project. Front-end Developer (2020. 07 ~ 2020. 11) 
+  made with react/typescript
+- :office: [Safe:Re] Mzzin app build project. Front-end Developer (2021. 01 ~ current)
+- made with react/typescript/redux-saga
+- :office: [????] Full Stack Developer,, Programming Analyist,, (Future)
 
-### 🔭 기술스택
+
+### 🔭 Technology Stack
 ![React](https://img.shields.io/badge/React-5F00FF)
 ![javascript](https://img.shields.io/badge/Javascript-FFE400)
 ![typescript](https://img.shields.io/badge/Typescript-0054FF)
 ![Nodejs](https://img.shields.io/badge/Nodejs-43853d)
-![Java](https://img.shields.io/badge/Java-333)
 
 and maybe in future
 ![Python](https://img.shields.io/badge/Python-FFE400)
 ![Spring](https://img.shields.io/badge/Spring-6db33f)
+![AWS](https://img.shields.io/badge/AWS-8A2BE2)
 .
 .
 
-### 잔디가꾸기🌱
+### 🌱잔디가꾸기🌱
 [![EunBKo's github stats](https://github-readme-stats.vercel.app/api?username=EunBKo)](https://github.com/EunBKo)
 
 <!--
