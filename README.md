@@ -18,9 +18,9 @@ made with react/typescript
 made with react/typescript/redux-saga
 - :office: [????] Full Stack Developer,, Programming Analyist,, (Future)
   <br/>  
-    <br/>   
+    <br/>
 
-### Technology Stack 🔭\
+### Technology Stack 🔭
 <p align="left">  
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> 
