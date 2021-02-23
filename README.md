@@ -19,8 +19,11 @@ made with react/typescript
 - :office: [Safe:Re] Mzzin app build project. Front-end Developer (2021. 01 ~ current)
 made with react/typescript/redux-saga
 - :office: [????] Full Stack Developer,, Programming Analyist,, (Future)
+<h3>
 .
 .
+</h3>
+
 
 ### Technology Stack 🔭\
 <p align="left">  
