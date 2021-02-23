@@ -4,7 +4,7 @@
 - :office: [LotteMart] LotteMart GO app renewal project. Front-end Developer (2020. 07 ~ 2020. 11) 
   made with react/typescript
 - :office: [Safe:Re] Mzzin app build project. Front-end Developer (2021. 01 ~ current)
-- made with react/typescript/redux-saga
+ made with react/typescript/redux-saga
 - :office: [????] Full Stack Developer,, Programming Analyist,, (Future)
 
 
