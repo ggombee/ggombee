@@ -15,8 +15,8 @@
 ![Nodejs](https://img.shields.io/badge/Nodejs-43853d)
 
 and maybe in future
-![Python](https://img.shields.io/badge/Python-FFE400)
-![Spring](https://img.shields.io/badge/Spring-6db33f)
+![Python](https://img.shields.io/badge/Python-00FFFF)
+![Spring](https://img.shields.io/badge/Spring-00FF7F)
 ![AWS](https://img.shields.io/badge/AWS-8A2BE2)
 .
 .
