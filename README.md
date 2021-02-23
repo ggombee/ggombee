@@ -4,11 +4,9 @@ Good day 🙂!
 I am Eunbee Ko who is interested in Data Science & Computer Science from South Korea.
 
 If you want to contact me, please leave me a message!
-<h3>
 <a href="https://instagram.com/ggombee__" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ggombee__" height="20" width="20" /></a>
-</h3>
-   
-   
+<br/>
+ <br/>
    
 ### Experience ✨
 
@@ -19,9 +17,8 @@ made with react/typescript
 - :office: [Safe:Re] Mzzin app build project. Front-end Developer (2021. 01 ~ current)
 made with react/typescript/redux-saga
 - :office: [????] Full Stack Developer,, Programming Analyist,, (Future)
-   
-   
-   
+  <br/>  
+    <br/>   
 
 ### Technology Stack 🔭\
 <p align="left">  
@@ -44,7 +41,7 @@ made with react/typescript/redux-saga
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/>
 </a> 
 </p>
-   
+    <br/>
    
 and maybe in future
 <p align="left">  
@@ -65,9 +62,9 @@ and maybe in future
   <a href="https://nextjs.org/" target="_blank"> 
     <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="30" height="30"/> 
   </a> 
-</p>
-   
-   
+</p> 
+<br/>
+ <br/> 
    
 ### 🌱잔디가꾸기🌱
 [![EunBKo's github stats](https://github-readme-stats.vercel.app/api?username=EunBKo)](https://github.com/EunBKo)
