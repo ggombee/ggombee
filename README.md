@@ -17,9 +17,9 @@ made with react/typescript
 - :office: [Safe:Re] Mzzin app build project. Front-end Developer (2021. 01 ~ current)
 made with react/typescript/redux-saga
 - :office: [????] Full Stack Developer,, Programming Analyist,, (Future)
-  <br/>  
-    <br/>
-
+<br/>
+ <br/>
+   
 ### Technology Stack 🔭
 <p align="left">  
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
@@ -64,9 +64,9 @@ and maybe in future
   </a> 
 </p> 
 <br/>
- <br/> 
+ <br/>
    
-### 🌱잔디가꾸기🌱
+### 잔디가꾸기🌱
 [![EunBKo's github stats](https://github-readme-stats.vercel.app/api?username=EunBKo)](https://github.com/EunBKo)
 
 <!--
