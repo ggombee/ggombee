@@ -13,9 +13,11 @@ If you want to contact me, please leave me a message!
 - :school: Chung-ang University Computer Science 4 year's Bachelor(Grades) Graduate (2020)
 - 💻✏: Front-end Service Developer (2020. 07 ~ current) ,,
 - :office: [LotteMart] LotteMart GO app renewal project. Front-end Developer (2020. 07 ~ 2020. 11)
-made with react/typescript
+made with react/redux-saga/Typescript/SVN
+- :office: [LotteHomeShopping] Wyder app build project. Front-end Developer (2020. 11 ~ 2020. 12)
+made with jsp/Git/Jira/Confluence
 - :office: [Safe:Re] Mzzin app build project. Front-end Developer (2021. 01 ~ current)
-made with react/typescript/redux-saga
+made with react/Typescript/redux-saga/Git
 - :office: [????] Full Stack Developer,, Programming Analyist,, (Future)
 <br/>
  <br/>
