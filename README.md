@@ -69,7 +69,8 @@ and maybe in future
  <br/>
    
 ### 잔디가꾸기🌱
-[![EunBKo's github stats](https://github-readme-stats.vercel.app/api?username=EunBKo)](https://github.com/EunBKo)
+[![ggombee's github stats](https://github-readme-stats.vercel.app/api?username=ggombee)](https://github.com/ggombee)
+
 
 <!--
 ![Python](https://img.shields.io/badge/Python-00FFFF)
