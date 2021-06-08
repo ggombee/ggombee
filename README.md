@@ -16,8 +16,10 @@ If you want to contact me, please leave me a message!
 made with react/redux-saga/Typescript/SVN
 - :office: [LotteHomeShopping] Wyder app build project. Front-end Developer (2020. 11 ~ 2020. 12)
 made with jsp/Git/Jira/Confluence
-- :office: [Safe:Re] Mzzin app build project. Front-end Developer (2021. 01 ~ current)
+- :office: [Safe:Re] Mzzin app build project. Front-end Developer (2021. 01 ~ 2021. 05)
 made with react/Typescript/redux-saga/Git
+- :office: [Erion Company] Front-end Developer (2021. 06 ~ current)
+made with react/Typescript/mobx/GraphQL
 - :office: [????] Full Stack Developer,, Programming Analyist,, (Future)
 <br/>
  <br/>
