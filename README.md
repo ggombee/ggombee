@@ -24,7 +24,7 @@ Happy Hacking! 👩🏻‍💻
 - 💻✏: Front-end Service Developer (2020. 07 ~ current) ,,
 - :office: [LotteMart] LotteMart GO app renewal project. Front-end Developer (2020. 07 ~ 2020. 11)
 made with react/redux-saga/Typescript/SVN
-- :office: [LotteHomeShopping] Wyder app build project. Front-end Developer (2020. 11 ~ 2020. 12)
+- :office: [LotteHomeShopping] Wyder app build project. Front-end Developer (2020. 11 ~ 2021. 01)
 made with jsp/Git/Jira/Confluence
 - :office: [Safe:Re] Mzzin app build project. Front-end Developer (2021. 01 ~ 2021. 05)
 made with react/Typescript/redux-saga/Git
