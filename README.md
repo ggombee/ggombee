@@ -1,10 +1,20 @@
 ### Hi there 👋
 
 Good day 🙂! 
-I am Eunbee Ko who is interested in Data Science & Computer Science from South Korea.
-
-If you want to contact me, please leave me a message!
-<a href="https://instagram.com/ggombee__" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ggombee__" height="20" width="20" /></a>
+<br/>
+<br/>
+I'm GGombee who is interested in Data Science & Computer Science from South Korea,
+and also I'm a frontend engineer who loves to learn.
+<br/>
+<br/>
+My motto is Stay Hungry and Stay Foolish!<br/>
+I hope we can share each others activities and be good synergy together😁
+<br/>
+<br/>
+👉[My tech Blog](https://velog.io/@ggombee)👈
+<br/>
+If you want to contact me, please leave me a [Email](minniemice98@gmail.com)!
+Happy Hacking! 👩🏻‍💻
 <br/>
  <br/>
    
@@ -49,6 +59,9 @@ made with react/Typescript/mobx/GraphQL
   <a href="https://www.python.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/>
   </a>
+  <a href="https://nextjs.org/" target="_blank"> 
+    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="30" height="30"/> 
+  </a> 
 </p>
     <br/>
    
@@ -63,9 +76,7 @@ and maybe in future
   <a href="https://www.gatsbyjs.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="30" height="30"/>
   </a>
-  <a href="https://nextjs.org/" target="_blank"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="30" height="30"/> 
-  </a> 
+ 
 </p> 
 <br/>
  <br/>
@@ -91,6 +102,8 @@ and maybe in future
 ![typescript](https://img.shields.io/badge/Typescript-0054FF)
 ![Nodejs](https://img.shields.io/badge/Nodejs-43853d)
  
+<a href="https://instagram.com/ggombee__" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ggombee__" height="20" width="20" /></a>
+
 <a href="https://unity.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> 
   </a>
