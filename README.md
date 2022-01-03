@@ -23,13 +23,15 @@ Happy Hacking! 👩🏻‍💻
 - :school: Chung-ang University Computer Science 4 year's Bachelor(Grades) Graduate (2020)
 - 💻✏: Front-end Service Developer (2020. 07 ~ current) ,,
 - :office: [LotteMart] LotteMart GO app renewal project. Front-end Developer (2020. 07 ~ 2020. 11)
-made with react/redux-saga/Typescript/SVN
+made with React/redux-saga/Typescript/SVN
 - :office: [LotteHomeShopping] Wyder app build project. Front-end Developer (2020. 11 ~ 2021. 01)
 made with jsp/Git/Jira/Confluence
 - :office: [Safe:Re] Mzzin app build project. Front-end Developer (2021. 01 ~ 2021. 05)
-made with react/Typescript/redux-saga/Git
-- :office: [Erion Company] Front-end Developer (2021. 06 ~ current)
-made with react/Typescript/mobx/GraphQL
+made with React/Typescript/redux-saga/Git
+- :office: [Erion Company] Front-end Developer (2021. 06 ~ 2021. 09)
+made with React/Typescript/mobx/GraphQL
+- :office: [Actbase Corp.] Front-end Developer (2021. 10 ~ current)
+made with React/ReactNative/Typescript/Javascript/redux
 - :office: [????] Full Stack Developer,, Programming Analyist,, (Future)
 <br/>
  <br/>
