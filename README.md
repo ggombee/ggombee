@@ -30,7 +30,7 @@ made with jsp/Git/Jira/Confluence
 made with React/Typescript/redux-saga/Git
 - :office: [Erion Company] Front-end Developer (2021. 06 ~ 2021. 09)
 made with React/Typescript/mobx/GraphQL
-- :office: [Actbase Corp.] Front-end Developer (2021. 10 ~ current)
+- :office: [Actbase Corp.] Front-end Developer (2021. 10 ~ 2022. 02)
 made with React/ReactNative/Typescript/Javascript/redux
 - :office: [????] Full Stack Developer,, Programming Analyist,, (Future)
 <br/>
