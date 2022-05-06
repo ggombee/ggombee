@@ -1,8 +1,12 @@
-<h2>About Me</h2> 
+<!-- <h2>About Me</h2>  -->
 <div>
     <img 
         src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fggombee"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+     <a href="https://velog.io/@ggombee" target="_blank"><img src="https://img.shields.io/badge/My Tech Blog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
+     <a href="mailto:ggombee@hey.com" target="_blank">
+    <img src="https://img.shields.io/badge/Mail-d14836?style=flat-square&logo=Gmail&logoColor=white"/>
+  </a>
 </div>
 
 ### Hi there 👋 Good day 🙂! 
@@ -15,15 +19,13 @@ My motto is Stay Hungry and Stay Foolish!<br/>
 I hope we can share each others activities and be good synergy together😁
 <br/>
 <br/>
-👉[My tech Blog](https://velog.io/@ggombee)👈
-<br/>
-<br/>
-If you want to contact me, please leave me a  [📧](ggombee@hey.com)!
+If you want to contact me, please leave me a mail!
+<!--  [📧](ggombee@hey.com)! --><br/>
 Happy Hacking! 👩🏻‍💻
-<br/>
+
 <br/>
 
-<h3>My popular courses</h3> 
+<h3>My popular courses ✨</h3> 
 <table>
   <tbody>
     <tr>
@@ -106,8 +108,10 @@ and maybe in future
 <br/>
 
 ### 잔디가꾸기🌱
-[![ggombee's github stats](https://github-readme-stats.vercel.app/api?username=ggombee)](https://github.com/ggombee)
 
+[![ggombee's github stats](https://github-readme-stats.vercel.app/api?username=ggombee)](https://github.com/ggombee)
+<!-- ![본인ID's github stats](https://github-readme-stats.vercel.app/api?username=본인ID&show_icons=true) -->
+<!-- [![ggombee's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ggombee&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/ggombee) -->
 
 <!--
 ![Python](https://img.shields.io/badge/Python-00FFFF)
