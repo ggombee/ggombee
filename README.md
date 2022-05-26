@@ -22,7 +22,6 @@ I hope we can share each others activities and be good synergy together😁
 If you want to contact me, please leave me a mail!
 <!--  [📧](ggombee@hey.com)! --><br/>
 Happy Hacking! 👩🏻‍💻
-
 <br/>
 
 <h3>My popular courses ✨</h3> 
@@ -86,9 +85,6 @@ made with React/ReactNative/Typescript/Javascript/redux
   <a href="https://www.python.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/>
   </a>
-  <a href="https://nextjs.org/" target="_blank"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="30" height="30"/> 
-  </a> 
 </p>
     <br/>
    
