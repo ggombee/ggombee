@@ -56,7 +56,8 @@ made with React/Typescript/redux-saga/Git
 made with React/Typescript/mobx/GraphQL
 - :office: [Actbase Corp.] Front-end Developer (2021. 10 ~ 2022. 02)
 made with React/ReactNative/Typescript/Javascript/redux
-- :office: [Effino] Front-end Developer (2022.03 ~ current)
+- :office: [여기어때컴퍼니] Front-end Developer (2022.06 ~ current)
+made with Vue/TypeScript/React ...
 <!-- - :office: [????] Full Stack Developer,, Programming Analyist,, (Future) -->
 <br/>
    
