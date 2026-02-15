@@ -93,19 +93,6 @@ lecture with React/Typescript/Javascript/redux
 </p>
     <br/>
    
-and maybe in future
-<p align="left">  
-  <a href="https://spring.io/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="30" height="30"/> 
-  </a>
-  <a href="https://kubernetes.io" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="30" height="30"/> 
-  </a>
-  <a href="https://www.gatsbyjs.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="30" height="30"/>
-  </a>
- 
-</p> 
 <br/>
 
 
