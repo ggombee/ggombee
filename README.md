@@ -54,7 +54,9 @@ made with React/Typescript/mobx/GraphQL
 made with React/ReactNative/Typescript/Javascript/redux
 - 🧑‍🏫: [Effino] Front-end Lecturer (2022. 03)
 lecture with React
-- :office: [여기어때컴퍼니] Frontend Developer (2022.06 ~ current)
-made with Vue/TypeScript/React ...
 - 🧑‍🏫: [ZeroBase] Frontend Lecturer (2022. 12)
 lecture with React/Typescript/Javascript/redux
+- :office: [여기어때컴퍼니] Frontend Developer (2022.06 ~ 2026.07)
+made with Vue/TypeScript/React ...
+- :office: [NHN CLOUD] Frontend Developer (2026.08 ~ current)
+made with Claude,Codex ...
