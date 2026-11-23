@@ -1,4 +1,20 @@
-<!-- <h2>About Me</h2>  -->
+<p align="center">
+  <a href="https://tokscale.ai/u/ggombee">
+    <img src="https://tokscale.ai/api/embed/ggombee/svg?template=classic&color=teal&graph=1&rank=percent" width="680" alt="Tokscale AI token usage">
+  </a>
+</p>
+
+### Hi, I'm GGombee 👋 — Product Engineer
+
+**Stay Hungry, Stay Foolish!**<br>
+겸손한 개발자 고은비입니다.
+
+프론트엔드로 시작해 유의미한 데이터로 사용자 경험을 높이는 일을 해 왔고,<br>
+이제는 AI로 세상의 문제를 푸는 데 힘쓰고 있어요.<br>
+에이전트로 반복 업무를 자동화하고, 개발 과정의 비효율을 줄이는 일을 좋아합니다.
+
+더 성장하고 싶어요! 피드백은 언제나 환영입니다! 🙌
+
 <div>
      <a href="https://velog.io/@ggombee" target="_blank"><img src="https://img.shields.io/badge/My Tech Blog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
      <a href="mailto:ggombee@hey.com" target="_blank">
@@ -6,21 +22,14 @@
   </a>
 </div>
 
-### Hi there 👋 Good day 🙂! 
-<br/>
-I'm GGombee who is interested in Data Science & Computer Science from South Korea,
-and also I'm a frontend engineer who loves to learn.
-<br/>
-<br/>
-My motto is Stay Hungry and Stay Foolish!<br/>
-I hope we can share each others activities and be good synergy together😁
-<br/>
-<br/>
-If you want to contact me, please leave me a mail!
-Happy Hacking! 👩🏻‍💻
-<br/>
+### What I build ✨
 
-<h3>My popular courses ✨</h3> 
+- [**code-forge**](https://github.com/ggombee/code-forge) ![](https://img.shields.io/github/stars/ggombee/code-forge?style=flat-square&label=★)
+  AI 에이전트의 skills·agents를 조합해 세팅해 주는 하네스
+- [**forge-glow**](https://github.com/ggombee/forge-glow) ![](https://img.shields.io/github/stars/ggombee/forge-glow?style=flat-square&label=★)
+  Claude Code 실시간 효율 HUD: 컨텍스트 상태, 비용, 토큰 절약 코치
+
+<h3>My popular courses ✨</h3>
 <table>
   <tbody>
     <tr>
@@ -36,27 +45,16 @@ Happy Hacking! 👩🏻‍💻
   </tbody>
 </table>
 
-
-   
 ### Experience ✨
 
-- :school: Chung-ang University Computer Science 4 year's Bachelor(Grades) Graduate (2020)
-- 💻✏: Front-end Service Developer (2020. 07 ~ current) ,,
-- :office: [LotteMart] LotteMart GO app renewal project. Front-end Developer (2020. 07 ~ 2020. 11)
-made with React/redux-saga/Typescript/SVN
-- :office: [LotteHomeShopping] Wyder app build project. Front-end Developer (2020. 11 ~ 2021. 01)
-made with jsp/Git/Jira/Confluence
-- :office: [Safe:Re] Mzzin app build project. Front-end Developer (2021. 01 ~ 2021. 05)
-made with React/Typescript/redux-saga/Git
-- :office: [Erion Company] Frontend Developer (2021. 06 ~ 2021. 09)
-made with React/Typescript/mobx/GraphQL
-- :office: [Actbase Corp.] Frontend Developer (2021. 10 ~ 2022. 02)
-made with React/ReactNative/Typescript/Javascript/redux
-- 🧑‍🏫: [Effino] Front-end Lecturer (2022. 03)
-lecture with React
-- 🧑‍🏫: [ZeroBase] Frontend Lecturer (2022. 12)
-lecture with React/Typescript/Javascript/redux
-- :office: [여기어때컴퍼니] Frontend Developer (2022.06 ~ 2026.07)
-made with Vue/TypeScript/React ...
-- :office: [NHN CLOUD] Frontend Developer (2026.08 ~ current)
-made with Claude,Codex ...
+| 기간 | 회사 | 역할 | Stack |
+|---|---|---|---|
+| 2026.08 – now | NHN Cloud | Frontend Engineer | TypeScript, React, AI Agents |
+| 2022.06 – 2026.07 | 여기어때컴퍼니 | Frontend Engineer | Vue, TypeScript, React |
+| 2022.12 | ZeroBase | Frontend Lecturer | React, TypeScript, Redux |
+| 2022.03 | Effino | Frontend Lecturer | React |
+| 2021.10 – 2022.02 | Actbase <sub>(closed)</sub> | Frontend Engineer | React, React Native, Redux |
+| 2021.06 – 2021.09 | Erion Company <sub>(closed)</sub> | Frontend Engineer | React, MobX, GraphQL |
+| 2020.07 – 2021.05 | 롯데마트 GO · 롯데홈쇼핑 Wyder · Mzzin | Frontend Engineer | React, Redux-Saga, TypeScript |
+
+🎓 중앙대학교 컴퓨터공학 (2020)
