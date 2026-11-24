@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://tokscale.ai/u/ggombee">
-    <img src="https://tokscale.ai/api/embed/ggombee/svg?template=classic&color=teal&graph=1&rank=percent" width="680" alt="Tokscale AI token usage">
+    <img src="https://tokscale.ai/api/embed/ggombee/svg?color=pink&amp;graph=1&amp;tokens=compact&amp;cost=compact" width="680" alt="Tokscale Stats">
   </a>
 </p>
 
